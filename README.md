@@ -3,7 +3,7 @@
 ## Installation Steps
 
 ### Step 1: Open Command Prompt.
-`Right click`the Start button and select `Windows Powershell (Admin)` from the menu
+`Right click` the Start button and select `Windows Powershell (Admin)` from the menu
 
 ### Step 2: Execute the Command.
 Copy and paste the command below into Command Prompt.
